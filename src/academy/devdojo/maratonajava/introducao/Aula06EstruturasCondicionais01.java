@@ -13,6 +13,9 @@ public class Aula06EstruturasCondicionais01 {
         }
 
         //COM OPERADOR DE NEGAÇÃO
+//        if (isAutorizadoComprarBebida == false) {
+//            System.out.println("Não autorizado a comprar bebida alcoolica");
+//        }
         if (!isAutorizadoComprarBebida) {
             System.out.println("Não autorizado a comprar bebida alcoolica");
         }
